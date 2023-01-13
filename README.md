@@ -5,7 +5,7 @@
 
 1. [Files](https://github.com/lau-ont/ETL-Spotify-Playlist/tree/main/files)
 2. [Notebooks](https://github.com/lau-ont/ETL-Spotify-Playlist/tree/main/notebooks)
-   - [EDA and Cleaning](https://github.com/lau-ont/ETL-Spotify-Playlist/blob/main/notebooks/Extract-Transform-Load.ipynb)
+   - [ETL](https://github.com/lau-ont/ETL-Spotify-Playlist/blob/main/notebooks/Extract-Transform-Load.ipynb)
    - [Visualization](https://github.com/lau-ont/ETL-Spotify-Playlist/blob/main/notebooks/Visualization.ipynb)
 4. [Graphics](https://github.com/lau-ont/ETL-Spotify-Playlist/tree/main/graphics)
 
