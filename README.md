@@ -1,6 +1,6 @@
 # ETL-Spotify-Playlist
 
-![Image text](https://github.com/lau-ont/EDA-Spotify-Playlist/files/lou-reed-animal.jpeg)
+![Image text](https://github.com/lau-ont/ETL-Spotify-Playlist/blob/main/files/lou-reed-animal.jpeg)
  
 ## Índice
 ***
