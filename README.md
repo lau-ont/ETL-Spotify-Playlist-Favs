@@ -19,11 +19,14 @@ Entre varias compañeras, creamos una lista de reproducción de Spotify, para po
 ## Algunos resultados
 ***
 
-![Image text](https://github.com/lau-ont/EDA-Amazon-Bestseller-Books/blob/main/graphics/top-authors.png)
+![Image text](https://github.com/lau-ont/ETL-Spotify-Playlist/graphics/top-artist.png)
 
 ## Librerías utilizadas
 ***
 
+- [Sis](https://pypi.org/project/sis/)
+- [Spotiby](https://spotipy.readthedocs.io/en/2.22.0/)
+- [Os](https://docs.python.org/3/library/os.html)
 - [NumPy](https://numpy.org)
 - [Pandas](https://pandas.pydata.org/docs/)
 - [Matplotlib](https://matplotlib.org)
