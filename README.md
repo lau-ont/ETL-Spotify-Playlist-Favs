@@ -1,6 +1,8 @@
 # ETL-Spotify-Playlist
+
+![Image text](https://github.com/lau-ont/EDA-Spotify-Playlist/blob/main/files/lou-reed-animal.png)
  
-## Project display order
+## Índice
 ***
 
 1. [Files](https://github.com/lau-ont/EDA-Amazon-Bestseller-Books/tree/main/files)
@@ -9,24 +11,17 @@
    - [Visualization](https://github.com/lau-ont/EDA-Amazon-Bestseller-Books/blob/main/notebooks/2-Visualization.ipynb)
 4. [Graphics](https://github.com/lau-ont/EDA-Amazon-Bestseller-Books/tree/main/graphics)
 
-## Goal
+## Objetivo
 ***
 
-The aim of this analysis is to do an EDA, cleanup and visualization of a dataset about Amazon Best Sellers Books between 2009 and 2019. 
+Entre varias compañeras, creamos una lista de reproducción de Spotify, para poder añadir en ella nuestras canciones favortias y utilizar los datos para realizar una ETL, llamando a una API.
 
-The data can be downloaded from this [link](https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019).
-
-## Some results
+## Algunos resultados
 ***
 
 ![Image text](https://github.com/lau-ont/EDA-Amazon-Bestseller-Books/blob/main/graphics/top-authors.png)
 
-## Conclusions
-***
-
-In the course of the analysis, it was established which authors have been the most successful, how many books are there by each author, which books receive the best reviews from readers. In addition, it was found that non-fiction literature is becoming more often a bestseller, but users also like fiction more.
-
-## Requirements to replicate the methodology
+## Librerías utilizadas
 ***
 
 - [NumPy](https://numpy.org)
@@ -37,6 +32,6 @@ In the course of the analysis, it was established which authors have been the mo
 
 ***
 
-Mark the project with a star to be able to find it easily later ✨
+Marca el repositorio con una estrella si quieres encontrarlo fácilmente más adelante ✨
 
-And remember that you can contact me through [my linkedin](https://www.linkedin.com/in/laura-onteniente-3aa5b696/) for any questions!
+Y recuerda que puedes contactarme por [linkedin](https://www.linkedin.com/in/laura-onteniente-3aa5b696/) por cualquier duda!
