@@ -3,11 +3,11 @@
 ## Índice
 ***
 
-1. [Files](https://github.com/lau-ont/EDA-Amazon-Bestseller-Books/tree/main/files)
-2. [Notebooks](https://github.com/lau-ont/EDA-Amazon-Bestseller-Books/tree/main/notebooks)
-   - [EDA and Cleaning](https://github.com/lau-ont/EDA-Amazon-Bestseller-Books/blob/main/notebooks/1-EDA%20and%20Cleaning.ipynb)
-   - [Visualization](https://github.com/lau-ont/EDA-Amazon-Bestseller-Books/blob/main/notebooks/2-Visualization.ipynb)
-4. [Graphics](https://github.com/lau-ont/EDA-Amazon-Bestseller-Books/tree/main/graphics)
+1. [Files](https://github.com/lau-ont/ETL-Spotify-Playlist/tree/main/files)
+2. [Notebooks](https://github.com/lau-ont/ETL-Spotify-Playlist/tree/main/notebooks)
+   - [EDA and Cleaning](https://github.com/lau-ont/ETL-Spotify-Playlist/blob/main/notebooks/Extract-Transform-Load.ipynb)
+   - [Visualization](https://github.com/lau-ont/ETL-Spotify-Playlist/blob/main/notebooks/Visualization.ipynb)
+4. [Graphics](https://github.com/lau-ont/ETL-Spotify-Playlist/tree/main/graphics)
 
 ## Objetivo
 ***
@@ -17,7 +17,7 @@ Entre varias compañeras, creamos una lista de reproducción de Spotify, para po
 ## Algunos resultados
 ***
 
-![Image text](https://github.com/lau-ont/ETL-Spotify-Playlist/graphics/top-artist.png)
+![Image text](https://github.com/lau-ont/ETL-Spotify-Playlist/blob/main/graphics/top-artist.png)
 
 ## Librerías utilizadas
 ***
