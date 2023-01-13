@@ -1,7 +1,5 @@
 # ETL-Spotify-Playlist
 
-![Image text](https://github.com/lau-ont/ETL-Spotify-Playlist/blob/main/files/lou-reed-animal.jpeg)![Image text](https://github.com/lau-ont/ETL-Spotify-Playlist/blob/main/files/bowie-heroes.jpeg)
- 
 ## Índice
 ***
 
@@ -38,3 +36,5 @@ Entre varias compañeras, creamos una lista de reproducción de Spotify, para po
 Marca el repositorio con una estrella si quieres encontrarlo fácilmente más adelante ✨
 
 Y recuerda que puedes contactarme por [linkedin](https://www.linkedin.com/in/laura-onteniente-3aa5b696/) por cualquier duda!
+
+![Image text](https://github.com/lau-ont/ETL-Spotify-Playlist/blob/main/files/lou-reed-animal.jpeg)
